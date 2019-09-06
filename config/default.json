@@ -1,0 +1,7 @@
+{
+  "mongoURI": "mongodb://localhost/OAuthdave",
+  "clientID": "916794830702-k2k3g4q2a5gelig3lktld9ndrq3qlo.apps.googleusercontent.com",
+  "clientSecret": "14mw9y9_GW7Wj50n74gTG",
+  "FbClientID": "249119367775551",
+  "FbClientSecret": "72e6b1db4a257ae1aed729ca5d1c4"
+}

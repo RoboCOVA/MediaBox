@@ -1,0 +1,23 @@
+
+#info:
+
+     google client ID: 916794830702-k2k3g4q2a5gelig3ktld9ndp5rq3qlo.apps.googleusercontent.com / use yours
+
+     google client secret: use yours
+
+     facebook APP ID: 2491197775551 / use yours
+     facebook APP secret: 72e6b1db4a257ad729cb54a5d1c4/ use yours
+
+#test:
+   passport 78 & 43 for console test, to see the tokens
+     // console.log('profile', profile);
+     // console.log('accessToken', accessToken);
+     // console.log('refreshToken', refreshToken);
+
+#guide:
+
+
+#conflicts:
+
+
+#
